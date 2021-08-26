@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+* {
+  font-family: "Barlow", sans-serif;
+}
+.header--section__title,
+.form--section__titles {
+  color: #0033a0;
+}
+
+.header--section__title--color {
+  color: #07aec7;
+}
+.navbar--button {
+  background-color: #07aec7;
+}
+navbar .form--label__check-digit {
+  width: 2.5em;
+}
+.navbar--ensurance--section {
+  background-color: #0033a0;
+  padding: 0;
+}
+input {
+  border-radius: 20px;
+}
+.btn-warning {
+  background-color: #e3e829;
+  border-style: none;
+  border-radius: 20px;
+}
